@@ -1,0 +1,1 @@
+This repository contain the full analysis ,modeling pipeline and 2030 population growth forecast for Pacific region (Washington, Oregon, California, Alaska, Hawaii).This region has been assigned to us by our Professor.Open the file in the google colab.
